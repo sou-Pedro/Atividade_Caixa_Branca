@@ -18,22 +18,13 @@ Atividade para matéria de "UI/UX e Testes de Software" do professor Daniel Ohat
 | N10 | Retorno final `false`                    |
 
 
-![alt text](image-1.png)
+<img width="909" height="1032" alt="image" src="https://github.com/user-attachments/assets/22c7a860-54d8-4051-977b-dd3514145af5" />
+
 
 
 ## 2. Complexidade Ciclomática
 
-A fórmula usada, conforme a aula, é:
-
-M = E – N + 2P
-
-Onde:
-
-E = total de arestas
-
-N = total de nós
-
-P = número de componentes conectados (1 método → P = 1)
+A fórmula usada foi M = E – N + 2P, conforme mostrada em aula, onde E = total de arestas, N = total de nós e P = número de componentes conectados (1 método → P = 1).
 
 Contagem:
 
@@ -80,4 +71,3 @@ N1 → N2 → N3 → N4 (sim) → N5 → N9 → N10
 7. Caminho 7 – Exceção no processamento do ResultSet
 
 N1 → N2 → N3 → N4 (sim) → N5 → N6 → N9 → N10
----
